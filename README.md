@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-JP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-   <img align="right" alt="Doug-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/869037129685143582/995734519166554182/png.png">
+   <img align="right" alt="Doug-Pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/869037129685143582/995734519166554182/png.png">
 </div>
   
   ##
