@@ -1,5 +1,6 @@
-## -Olá!!! Eu sou Douglas Veras, estudante de Ciência de Dados e Inteligência Artificial-
-## -Em constante Busca por conhecimento-
+##  -Douglas Veras-
+## -Estudante De Ciência de Dados e Inteligência Artificial-
+## -Em Constante Busca Por Conhecimento-
 
 <div align="center">
   <a href="https://github.com/Douglas1546">
